@@ -1,11 +1,3 @@
-# Demo NFT marketplace
-
-<p align="center">
-  <img src="pics/logo.svg" height=150></img>
-</p>
-
-A full stack demo NFT marketplace based on aptos devnet. Aiming for clean and cocise code that is easy to understand and also make some automations to speed up full stack development.
-
 ## Tech stack
 
 - Lang: Move, Typescript
@@ -13,20 +5,6 @@ A full stack demo NFT marketplace based on aptos devnet. Aiming for clean and co
 - Backend: [Supabase](https://supabase.com), [Prisma](https://prisma.io), [Rxjs](https://rxjs.dev/)
 
 ## Development
-
-### Contract
-
-- Compile move module
-
-  ```
-  NAME=<name> ADDRESS=<address> yarn workspace market-contracts move:compile
-  ```
-
-- Publish move module
-
-  ```
-  NAME=<name> ADDRESS=<address> yarn workspace market-contracts move:publish
-  ```
 
 ### Frontend
 
