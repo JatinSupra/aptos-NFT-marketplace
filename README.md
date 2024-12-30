@@ -1,6 +1,6 @@
 ## Tech stack
 
-- Contracts: Supra Framework: Move, Typescript
+- Contracts: [Supra Framework](https://github.com/Entropy-Foundation/aptos-core/tree/dev/aptos-move/framework/supra-framework): Move, Typescript
 - Frontend: [Next.js](https://nextjs.org/), [tailwindcss](https://tailwindcss.com), [daisyui](https://daisyui.com)
 - Backend: [Supabase](https://supabase.com), [Prisma](https://prisma.io), [Rxjs](https://rxjs.dev/)
 
